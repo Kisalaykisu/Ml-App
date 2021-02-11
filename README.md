@@ -31,4 +31,4 @@ Download and unzip contents from https://github.com/Kisalaykisu/Ml-App.git
 
 ##  Launch the app
 
-      streamlit run app.py
+     streamlit run ml-app.py
